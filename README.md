@@ -1,2 +1,2 @@
 # experiment4git
-clone
+my first git file 
